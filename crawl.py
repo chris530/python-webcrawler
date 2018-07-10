@@ -6,7 +6,7 @@ import re
 from BeautifulSoup import BeautifulSoup
 import time
 
-DOMAIN = "openai.com"
+DOMAIN = "CHANGE_TO_YOUR_DOMAIN"
 
 visited = {}
 q = Queue.Queue()
